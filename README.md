@@ -1,4 +1,4 @@
-# Auditeur de Visibilité Moteurs IA et GEO | TAVARDT France
+# Auditeur de Visibilité Moteurs IA et GEO
 
 [![Auditeur GEO](https://img.shields.io/badge/TAVARDT-Recherche%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/fr/audit-visibilite-moteurs-ia/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Pour des analyses poussees et un suivi continu de votre presence dans les moteur
 ## Conseil en Indexation IA et Semantique
 
 Pour structurer vos donnees et optimiser votre visibilite dans les agents autonomes en France, sollicitez les ingenieurs de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
