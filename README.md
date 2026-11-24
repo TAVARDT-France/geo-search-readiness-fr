@@ -5,7 +5,7 @@
 
 Auditeur CLI de Generative Engine Optimization (GEO) pour le controle d acces des robots IA, des donnees structurees Schema.org et de la lisibilite semantique.
 
-Developpe et maintenu par la division d ingenierie semantique et d indexation IA de **TAVARDT France**.
+Developpe et maintenu par la division d ingenierie semantique et d indexation IA de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python geo_auditor.py entreprise.fr -json
 Pour des analyses poussees et un suivi continu de votre presence dans les moteurs IA, consultez l outil officiel:
 
 * **Auditeur de Recherche IA et GEO**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Indexation IA et Semantique
 
-Pour structurer vos donnees et optimiser votre visibilite dans les agents autonomes en France, sollicitez les ingenieurs de **TAVARDT France**.
+Pour structurer vos donnees et optimiser votre visibilite dans les agents autonomes en France, sollicitez les ingenieurs de **TAVARDT**.
 
 ***
 
