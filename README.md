@@ -2,6 +2,7 @@
 
 [![Auditeur GEO](https://img.shields.io/badge/TAVARDT-Recherche%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/fr/audit-visibilite-moteurs-ia/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditeur CLI de Generative Engine Optimization (GEO) pour le controle d acces des robots IA, des donnees structurees Schema.org et de la lisibilite semantique.
 
@@ -56,6 +57,11 @@ Pour structurer vos donnees et optimiser votre visibilite dans les agents autono
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
